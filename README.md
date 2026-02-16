@@ -1,6 +1,5 @@
 ![sleepykitty](https://github.com/user-attachments/assets/fe0956ed-40c3-4251-9319-6215bc96f62b)
-# 🌸 Sara Herren
-
+# 🌸 Sara Herren 🌸
 Hi! I'm Sara — a creative web designer who loves building soft, aesthetic websites and solving front-end problems ✨  
 
 I specialize in clean HTML/CSS layouts, debugging tricky issues, and making web spaces both functional and beautiful.
